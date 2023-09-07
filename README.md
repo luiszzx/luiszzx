@@ -9,6 +9,4 @@
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 [![DISCORD.JS](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiszzx)](https://github.com/luiszzx/github-readme-stats)
-
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luiszzx&show_icons=true&theme=dracula)
